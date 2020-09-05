@@ -11,7 +11,7 @@ The messages below must appear on terminal:
     Host: 127.0.0.1:20205
     Listening for connections...
     
-Now at the browser open the URL:
+At the browser open the URL:
 
     http://localhost/websocketPHP/client.php
     
